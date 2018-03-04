@@ -1,6 +1,6 @@
 {
   "name": "berycore-build",
-  "version": "0.5.5",
+  "version": "0.9.2",
   "description": "A helper for common tasks to build berycore modules'",
   "main": "index.js",
   "scripts": {
