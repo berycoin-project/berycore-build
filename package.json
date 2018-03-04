@@ -1,22 +1,22 @@
 {
-  "name": "litecore-build",
+  "name": "berycore-build",
   "version": "0.5.5",
-  "description": "A helper for common tasks to build litecore modules'",
+  "description": "A helper for common tasks to build berycore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/litecoin-project/litecore-build"
+    "url": "git://github.com/berycoin-project/berycore-build"
   },
   "keywords": [
-    "litecore"
+    "berycore"
   ],
   "contributors": [
     {
       "name": "Charlie Lee",
-      "email": "coblee@litecoin.org"
+      "email": "coblee@berycoin.org"
     },
     {
       "name": "Esteban Ordano",
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/litecoin-project/litecore-build/issues"
+    "url": "https://github.com/berycoin-project/berycore-build/issues"
   },
-  "homepage": "https://github.com/litecoin-project/litecore-build",
+  "homepage": "https://github.com/berycoin-project/berycore-build",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
